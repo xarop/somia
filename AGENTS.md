@@ -1,4 +1,4 @@
-# Protocol d'IA Ètica per [SomIA.social](http://SomIA.social)
+# Protocol d'IA Ètica per [SomIA](http://SomIA.social)
 
 ## 🎯 Principis
 
@@ -21,4 +21,4 @@
 
 ## 📜 Llicència
 
-Tot el contingut i els models generats per SomIA.social es publiquen sota **llicències lliures** (ex: GPL, CC-BY-SA).
+Tot el contingut i els models generats per SomIA es publiquen sota **llicències lliures** (ex: GPL, CC-BY-SA).

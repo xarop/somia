@@ -1,4 +1,4 @@
-# SomIA.social: Democratització de la IA
+# SomIA: Democratització de la IA
 
 [somia.social](http://somia.social)
 
@@ -24,7 +24,7 @@ SomIA neix amb l'objectiu de **recuperar les dades per part de la ciutadania** i
 ## 📂 Estructura del Projecte
 
 ```
-somIA.social/
+somia/
 ├── index.html
 ├── style.css
 ├── humans.txt

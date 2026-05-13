@@ -2,7 +2,7 @@
 
 ## 🌱 Filosofia
 
-SomIA.social és un projecte **no lucratiu** alineat amb els valors de l'**Economia Social i Solidària (ESS)**. Busquem col·laboradors que comparteixin la nostra visió de **sobirania tecnològica, codi obert i IA ètica**.
+SomIA és un projecte **no lucratiu** alineat amb els valors de l'**Economia Social i Solidària (ESS)**. Busquem col·laboradors que comparteixin la nostra visió de **sobirania tecnològica, codi obert i IA ètica**.
 
 ## 🛠 Com Contribuir
 
@@ -25,4 +25,4 @@ SomIA.social és un projecte **no lucratiu** alineat amb els valors de l'**Econo
 
 ## 📩 Contacte
 
-Si tens dubtes, obre un *issue* al repositori.
+Si tens dubtes, obre un _issue_ al repositori.
