@@ -12,8 +12,7 @@ SomIA neix amb l'objectiu de **recuperar les dades per part de la ciutadania** i
 - **Hosting**: [GitHub Pages](https://pages.github.com) per transparència i accessibilitat.
 - **Tecnologies**:
   - HTML5 semàntic (sense frameworks).
-  - CSS pur inspirat en [Pico CSS](https://picocss.com/) i [MVP.css](https://andybrewer.github.io/mvp/).
-  - Paleta de colors: Indigo profund, blanc trencat i cian suau.
+  - CSS pur inspirat en [Pico CSS](https://picocss.com/).
   - **IA**: [Mistral AI](https://mistral.ai) per a la generació de contingut i assistència tècnica.
 
 ## 🌍 Sobirania Digital
