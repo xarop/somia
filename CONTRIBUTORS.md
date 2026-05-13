@@ -23,6 +23,10 @@ SomIA és un projecte **no lucratiu** alineat amb els valors de l'**Economia Soc
 - **Local-first**: Prioritza solucions que funcionin offline o amb servidors locals.
 - **Codi obert**: Tot el treball ha de ser accessible i reutilitzable.
 
+## Entorn de Desenvolupament
+
+Per una millor experiència de desenvolupament, recomanem utilitzar el perfil `somia.code-profile` d'Visual Studio Code. Aquest perfil inclou extensions i configuracions essencials adaptades per treballar amb projectes SomIA.
+
 ## 📩 Contacte
 
 Si tens dubtes, obre un _issue_ al repositori.
