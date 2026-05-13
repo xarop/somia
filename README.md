@@ -1,5 +1,7 @@
 # SomIA.social: Democratització de la IA
 
+[somia.social](http://somia.social)
+
 ## 📜 Filosofia
 
 SomIA neix amb l'objectiu de **recuperar les dades per part de la ciutadania** i promoure una **IA ètica, local i de codi obert**. Creiem en la **sobirania tecnològica** com a eina per evitar la dependència de plataformes centralitzades.
